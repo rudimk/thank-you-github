@@ -637,3 +637,4 @@ Signed,
 - Eliott Hauteclair ([@Eliottiosdevs](https://github.com/Eliottiosdevs)), Developer, Belgium
 - Wael Nasreddine ([@kalbasit](https://github.com/kalbasit)), VP of Engineering at [Publica](https://getpublica.com/)
 - Stephen Jennings ([@jennings](https://github.com/jennings)), Software Developer
+- Rudraksh MK ([@rudimk](https://github.com/rudimk)), VP of Engineering at [Indiqus](http://indiqus.com)
